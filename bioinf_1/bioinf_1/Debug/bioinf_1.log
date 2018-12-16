@@ -1,3 +1,0 @@
-﻿  task.cpp
-c:\users\владик\source\repos\bioinf_1\bioinf_1\task.cpp(8): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  bioinf_1.vcxproj -> C:\Users\Владик\source\repos\bioinf_1\Debug\bioinf_1.exe

@@ -1,7 +1,0 @@
-﻿  main.cpp
-c:\users\владик\source\repos\bioinf_2\bioinf_2\kodons.h(100): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\владик\source\repos\bioinf_2\bioinf_2\kodons.h(166): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\владик\source\repos\bioinf_2\bioinf_2\kodons.h(176): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\владик\source\repos\bioinf_2\bioinf_2\main.cpp(5): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-c:\users\владик\source\repos\bioinf_2\bioinf_2\main.cpp(45): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
-  bioinf_2.vcxproj -> C:\Users\Владик\source\repos\bioinf_2\Debug\bioinf_2.exe

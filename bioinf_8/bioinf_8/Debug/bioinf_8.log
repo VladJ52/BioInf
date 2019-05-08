@@ -1,0 +1,18 @@
+﻿  bioinf_8.cpp
+c:\users\владик\desktop\проги\биоинформатика\bioinf\bioinf_8\bioinf_8\bioinf_8.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владик\desktop\проги\биоинформатика\bioinf\bioinf_8\bioinf_8\bioinf_8.cpp(34): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владик\desktop\проги\биоинформатика\bioinf\bioinf_8\bioinf_8\bioinf_8.cpp(44): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владик\desktop\проги\биоинформатика\bioinf\bioinf_8\bioinf_8\bioinf_8.cpp(65): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владик\desktop\проги\биоинформатика\bioinf\bioinf_8\bioinf_8\bioinf_8.cpp(83): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владик\desktop\проги\биоинформатика\bioinf\bioinf_8\bioinf_8\bioinf_8.cpp(85): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владик\desktop\проги\биоинформатика\bioinf\bioinf_8\bioinf_8\bioinf_8.cpp(81): warning C4101: temp: неиспользованная локальная переменная
+c:\users\владик\desktop\проги\биоинформатика\bioinf\bioinf_8\bioinf_8\bioinf_8.cpp(104): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владик\desktop\проги\биоинформатика\bioinf\bioinf_8\bioinf_8\bioinf_8.cpp(107): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владик\desktop\проги\биоинформатика\bioinf\bioinf_8\bioinf_8\bioinf_8.cpp(128): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\владик\desktop\проги\биоинформатика\bioinf\bioinf_8\bioinf_8\bioinf_8.cpp(147): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владик\desktop\проги\биоинформатика\bioinf\bioinf_8\bioinf_8\bioinf_8.cpp(150): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владик\desktop\проги\биоинформатика\bioinf\bioinf_8\bioinf_8\bioinf_8.cpp(166): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владик\desktop\проги\биоинформатика\bioinf\bioinf_8\bioinf_8\bioinf_8.cpp(169): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владик\desktop\проги\биоинформатика\bioinf\bioinf_8\bioinf_8\bioinf_8.cpp(246): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владик\desktop\проги\биоинформатика\bioinf\bioinf_8\bioinf_8\bioinf_8.cpp(249): warning C4018: <: несоответствие типов со знаком и без знака
+  bioinf_8.vcxproj -> C:\Users\Владик\Desktop\Проги\БиоИнформатика\bioinf\bioinf_8\bioinf_8\Debug\bioinf_8.exe
